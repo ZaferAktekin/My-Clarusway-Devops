@@ -1,5 +1,5 @@
 # clarusway-devops-11-22:
-fdf df
+fdf dfhg
 This private workshop repository contains projects, hands-on training, coding challenges, and class-notes for the Clarusway Students of AWS & DevOps-11.
 
 ## Description

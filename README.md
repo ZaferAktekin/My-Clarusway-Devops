@@ -1,7 +1,7 @@
 # clarusway-devops-11-22:
 
 This private workshop repository contains projects, hands-on training, coding challenges, and class-notes for the Clarusway Students of AWS & DevOps-11.
-cck;/lkhrs
+cck;/lkhrsqw
 ## Description
 
 The clarusway-workshop repository contains materials related to the IT trainings like projects, hands-on trainings, coding challenges, class-notes etc. in the following main areas.
